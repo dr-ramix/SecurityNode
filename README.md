@@ -1,2 +1,1 @@
-# SecurityNode
-Security with hash function
+# Authentication-Secrets
